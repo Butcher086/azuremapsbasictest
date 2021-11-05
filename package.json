@@ -18,6 +18,10 @@
     "@angular/platform-browser": "~12.2.0",
     "@angular/platform-browser-dynamic": "~12.2.0",
     "@angular/router": "~12.2.0",
+    "azure-maps-control": "^2.1.6",
+    "azure-maps-drawing-tools": "^0.1.10",
+    "azure-maps-rest": "^2.0.5",
+    "ng-azure-maps": "^4.0.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
